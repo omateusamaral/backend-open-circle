@@ -8,6 +8,7 @@ import './database/connect';
 import userRoutes from './routes/usersRoutes/routes';
 
 
+
 class App {
   app: express.Application;
   constructor() {
